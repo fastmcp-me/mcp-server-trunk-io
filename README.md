@@ -7,7 +7,7 @@
 
 # Trunk.io MCP Server
 
-Leverage the power of CI Autopilot from your IDE, or the AI application of your choosing
+Leverage the power of CI Autopilot from your IDE, or the AI application of your choosing.
 
 # Use MCP Server
 
