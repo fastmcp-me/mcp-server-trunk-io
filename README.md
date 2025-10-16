@@ -40,3 +40,10 @@ The Trunk MCP server supports the OAuth 2.0 + OpenID Connect standard for MCP au
 * [Claude Code CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/claude-code-cli.md)
 * [Gemini CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/gemini-cli.md)
 
+---
+
+**Made with ❤️ by the Trunk.io team**
+
+[slack]: https://slack.trunk.io
+[docs]: https://docs.trunk.io
+[vscode]: https://marketplace.visualstudio.com/items?itemName=Trunk.io
