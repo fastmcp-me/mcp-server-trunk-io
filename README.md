@@ -25,7 +25,7 @@ The following applications are currently supported: Cursor, Claude Code, Gemini 
 
 Our MCP server is available at `https://mcp.trunk.io/mcp` and exposes the following tools:
 
-<table><thead><tr><th width="265.30859375">Tool</th><th>Capability</th></tr></thead><tbody><tr><td><a href="https://docs.trunk.io/ci-autopilot/use-mcp-server/mcp-tool-reference/get-root-cause-analysis.md"><code>get-root-cause-analysis</code></a></td><td>Retrieve root cause analysis and fix suggestions</td></tr><tr><td><a href="https://docs.trunk.io/ci-autopilot/use-mcp-server/mcp-tool-reference/set-up-test-uploads.md"><code>setup-trunk-uploads</code></a></td><td>Experimental: Create a setup plan to upload test results</td></tr></tbody></table>
+<table><thead><tr><th width="265.30859375">Tool</th><th>Capability</th></tr></thead><tbody><tr><td><a href="https://docs.trunk.io/ci-autopilot/use-mcp-server/mcp-tool-reference/get-root-cause-analysis"><code>get-root-cause-analysis</code></a></td><td>Retrieve root cause analysis and fix suggestions</td></tr><tr><td><a href="https://docs.trunk.io/ci-autopilot/use-mcp-server/mcp-tool-reference/set-up-test-uploads"><code>setup-trunk-uploads</code></a></td><td>Experimental: Create a setup plan to upload test results</td></tr></tbody></table>
 
 ### Authorization
 
@@ -33,12 +33,12 @@ The Trunk MCP server supports the OAuth 2.0 + OpenID Connect standard for MCP au
 
 ### Get started
 
-**To get started, configure your AI application to communicate with Trunk's MCP server:**&#x20;
+**To get started, configure your AI application to communicate with Trunk's MCP server:**
 
-* [Cursor](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/cursor-ide.md)
-* [GitHub Copilot](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/github-copilot-ide.md)
-* [Claude Code CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/claude-code-cli.md)
-* [Gemini CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/gemini-cli.md)
+* [Cursor](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/cursor-ide)
+* [GitHub Copilot](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/github-copilot-ide)
+* [Claude Code CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/claude-code-cli)
+* [Gemini CLI](https://docs.trunk.io/ci-autopilot/use-mcp-server/configuration/gemini-cli)
 
 ---
 
